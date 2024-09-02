@@ -246,10 +246,26 @@
                 </div>
             </div>
         </section>
-        <section>
-            <h1 class="text-3xl">Kind words from clients around the world</h1>
-            <div>
-
+        <section class="w-full">
+            <div class="flex justify-between">
+                <h1 class="text-3xl">Kind words from clients around the world</h1>
+                <div class="flex">
+                    <img src="imgs/right-arrow.svg" alt="">
+                    <img src="imgs/face.svg" class="" alt="">
+                </div>
+            </div>
+            <div class="flex">
+                <div>
+                    <img src="imgs/russ.webp" alt="">
+                </div>
+                <div>
+                    <h1 class="font-bold">
+                        It has been an absolute pleasur bring to the table wsurvival strategi ensure proacti doation At
+                        t going forward a new nor evolgenerati heading.
+                    </h1>
+                    <h1 class="font-bold">Russ Herrison</h1>
+                    <h3>Founder and CEO at Recharge</h3>
+                </div>
             </div>
         </section>
     </main>
